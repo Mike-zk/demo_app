@@ -1,0 +1,5 @@
+<header>
+<@= image_tog(*logo.png*, :alt =>*Sample App*, :class => *round*) @>
+<nav class=*round*>
+</nav>
+</header>
