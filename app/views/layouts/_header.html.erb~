@@ -1,5 +1,5 @@
 <header>
-<%= image_tog("logo.png", :alt =>"Sample App", :class => "round") %>
+
 <nav>
 <ul>
 <li><%= link_to "Home", '#' %></li>
